@@ -2,6 +2,7 @@
 title: "我的ThinkPad & Arch使用新的体验兼流水账"
 date: 2023-11-01 00:00:00 +0800
 tags: [ThinkPad, Linux]
+catagories: 电子杂谈
 ---
 
 ## 0. 我为什么喜欢ThinkPad
