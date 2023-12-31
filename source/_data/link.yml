@@ -1,0 +1,14 @@
+- class_name: 友情链接
+  class_desc: 好朋友们
+  link_list:
+  - name: wxiwnd
+    link: https://blog.wxiwnd.net/
+    descr: 大跌带我QAQ
+
+- class_name: 一些感兴趣的站点
+  class_desc:
+  link_list:
+  - name: Plum's Blog
+    link: https://plumz.me/
+    avatar:
+    descr: 从ThinkPad换屏看到的，然后发现还玩很多galgame
