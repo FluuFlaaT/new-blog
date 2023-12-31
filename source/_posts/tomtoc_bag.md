@@ -2,7 +2,7 @@
 title: "Tomtoc双肩包使用体验"
 date: 2023-07-26 00:00:00 +0800
 tags: [EDC, 日常]
-catagories: 小物件杂谈
+categories: 小物件杂谈
 ---
 
 # 0. 写在最前
