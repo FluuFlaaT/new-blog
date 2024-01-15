@@ -5,7 +5,7 @@ tags: [ThinkPad, Linux]
 categories: 电子杂谈
 ---
 
-## 0. 我为什么喜欢ThinkPad
+## 0. 我为什么喜欢ThinkPad 
 
 ~~其实这个问题可能要称为：我为什么喜欢X1 Carbon~~
 
